@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "727941045826",
+    "project_id": "poppin-40ea3",
+    "storage_bucket": "poppin-40ea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727941045826:android:a2391951e08b9c1eddd7db",
+        "android_client_info": {
+          "package_name": "com.pop.poppin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727941045826-iafl28ok3cr067iufspudbus507lqqjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGIJ5tTkX1xLymqtg13SURu3fSoaziRDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727941045826-6019sjfq9pgqgaag59ebp8i7vrv2kgem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727941045826-dcvuf9usj1na8qnrp7idqn8nu0jaul49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pop.poppin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727941045826:android:4c202c2041d81124ddd7db",
+        "android_client_info": {
+          "package_name": "com.pop.poppin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727941045826-q9bo2mt6fopgknfgg8b5cmull5jq5r5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pop.poppin",
+            "certificate_hash": "889b1a0257297f7ca4c3b26a62b935f94341d885"
+          }
+        },
+        {
+          "client_id": "727941045826-iafl28ok3cr067iufspudbus507lqqjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGIJ5tTkX1xLymqtg13SURu3fSoaziRDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727941045826-6019sjfq9pgqgaag59ebp8i7vrv2kgem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "727941045826-dcvuf9usj1na8qnrp7idqn8nu0jaul49.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pop.poppin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
